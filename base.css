@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    background-color: #b4baba;
+    color: black;
+    border-bottom: 1px solid black;
+}
+body {
+    background-color: white;
+    text-align: center;
+}
+section {
+}
+
+.row {
+    overflow: hidden;
+    clear: both;
+    border: none;
+}
+
+.border-right {
+    border-right: 1px solid black;
+}

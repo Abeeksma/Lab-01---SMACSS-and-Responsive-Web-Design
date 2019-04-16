@@ -1,0 +1,35 @@
+
+@media only screen and (max-width: 767px) {
+    nav {
+        height: 75px;
+    }
+
+    header {
+        height: 125px;
+    }
+
+    aside {
+        height: 150px;
+    }
+    
+    .content {
+        height: 125px;
+    }
+
+    .box {
+        height: 250px;
+    }
+
+    footer {
+        height: 80px;
+    }
+    .fullwidth {
+        width: 100%;
+    }
+
+    .halfwidth {
+        width: 50%;
+        height: 250px;
+        float: left;
+    }
+  }
