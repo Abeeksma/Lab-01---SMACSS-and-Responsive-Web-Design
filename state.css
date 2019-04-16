@@ -1,0 +1,40 @@
+.red {
+    background-color: red;
+}
+.orange {
+    background-color: orange;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.indigo {
+    background-color: indigo;
+}
+
+@media only screen and (max-width: 767px) {
+    .red {
+        background-color: rgb(131, 18, 18);
+    }
+    .orange {
+        background-color: rgb(131, 90, 15);
+    }
+    .yellow {
+        background-color: rgb(151, 151, 9);
+    }
+    .green {
+        background-color: rgb(18, 241, 18);
+    }
+    .blue {
+        background-color: rgb(33, 33, 151);
+    }
+    .indigo {
+        background-color: rgb(147, 41, 223);
+    }
+    
+}
